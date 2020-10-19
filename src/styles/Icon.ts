@@ -16,4 +16,5 @@ export {Chat} from 'styled-icons/heroicons-outline';
 // os icones já estao baixados na pasta
 
 export {RtIcon as Rt} from './MyIcon'
+export {Twitter as Twitter} from './MyIcon'
 
